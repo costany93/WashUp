@@ -1,0 +1,37 @@
+body{
+
+}
+.navbar-custom{
+    background-color: #100C86;
+}
+.navbar{
+    border-bottom: #EBF30D 3px solid;
+    opacity: 0.8;
+}
+#home-section{
+    background-image: url("/img/home.jpg");
+    min-height: 550px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+#home-section .dark-overlay{
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-height: 550px;
+    width: 100%;
+    background-color: rgb(0, 0, 0, 0.5);
+}
+#home-section .home-inner{
+    padding-top: 150px;
+}
+
+#home-section .fas{
+    background-color: white;
+    padding: 4px;
+}
+
+.home-section-block{
+    
+}
