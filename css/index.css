@@ -9,7 +9,7 @@ body{
     opacity: 0.8;
 }
 #home-section{
-    background-image: url("/img/home.jpg");
+    background-image: url("../img/home.jpg");
     min-height: 550px;
     background-repeat: no-repeat;
     background-size: cover;
@@ -33,5 +33,10 @@ body{
 }
 
 .home-section-block{
-    
+    background-color: yellow;
+    box-shadow: 1px 1px 10px black;
+
+}
+.text-mockup{
+    color: #100C86;
 }
